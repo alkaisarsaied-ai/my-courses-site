@@ -1,0 +1,79 @@
+/* تنسيق عام */
+body {
+    font-family: 'Arial', sans-serif;
+    background-color: #f9f9f9;
+    color: #333;
+    margin: 0;
+    padding: 0;
+    direction: rtl;
+}
+
+header {
+    background-color: #2196f3;
+    color: white;
+    padding: 20px;
+    text-align: center;
+}
+
+main {
+    padding: 20px;
+}
+
+h2 {
+    color: #444;
+    margin-top: 40px;
+}
+
+.course {
+    background-color: #fff;
+    padding: 15px;
+    margin-bottom: 20px;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    text-align: center;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.05);
+}
+
+.course img {
+    width: 80px;
+    height: 80px;
+    margin-bottom: 10px;
+}
+
+.course h3 {
+    margin: 10px 0;
+    color: #2196f3;
+}
+
+.btn {
+    display: inline-block;
+    background-color: #4caf50;
+    color: white;
+    padding: 10px 20px;
+    margin-top: 10px;
+    border-radius: 5px;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+.btn:hover {
+    background-color: #45a049;
+}
+
+.contact {
+    background-color: #eef6ff;
+    padding: 15px;
+    border-radius: 5px;
+}
+
+.contact a {
+    color: #0d47a1;
+    text-decoration: none;
+}
+
+footer {
+    background-color: #ddd;
+    text-align: center;
+    padding: 10px;
+    margin-top: 40px;
+}
